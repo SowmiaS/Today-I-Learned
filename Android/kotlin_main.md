@@ -1,9 +1,12 @@
 **Kotlin Flow**
 
+**Data types** \
+Everything is an Object( can have member functions ). Primitives at runtime but Objects to user.
+
 **Keywords** \
 *internal* - Setting a declaration as internal means that it'll be available in the same module only.
 
-**Local Functions** - **A function inside a funtion.** 
+**Local Functions** - **A function inside a funtion.** \
 A private function (used only by a single calling method) can be used as local functions when we need local variables in the calling function without passing it.
 
 **For Example:**
