@@ -13,8 +13,10 @@
 
 
 
-| attributes       |     Description				      |
-|------------------|------------------------------|
-| alignment        | how this layout should be placed inside parent		|
-| Arrangement      | how its children should be arranged. Arrangement can be found in Row, Column	|
+| attributes                       |     Description				      |
+|----------------------------------|------------------------------|
+| alignment                        | how this layout should be placed inside parent		|
+| Arrangement                      | how its children should be arranged. Arrangement can be found in Row, Column	|
+| Textview - text from Strings.xml | Text(text = stringResource(id = R.string.app_name)) |
+
 
